@@ -1,1 +1,2 @@
-# Figma is intresting tool to design web pages.
+# Figma
+It is use for designing purpose
